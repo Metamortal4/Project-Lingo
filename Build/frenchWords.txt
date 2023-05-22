@@ -1,0 +1,100 @@
+Maison:House
+Chat:Cat
+Chien:Dog
+Bonjour:Hello
+Merci:Thank you
+Amour:Love
+Temps:Time
+Manger:Eat
+Boire:Drink
+Fleur:Flower
+École:School
+Livre:Book
+Voiture:Car
+Jardin:Garden
+Soleil:Sun
+Lune:Moon
+Plage:Beach
+Hôtel:Hotel
+Pain:Bread
+Vin:Wine
+Bleu:Blue
+Vert:Green
+Rouge:Red
+Noir:Black
+Blanc:White
+Petit:Small
+Grand:Big
+Femme:Woman
+Homme:Man
+Enfant:Child
+Bonheur:Happiness
+Triste:Sad
+S'il vous plaît:Please
+Excusez-moi:Excuse me
+Au revoir:Goodbye
+Oui:Yes
+Non:No
+Je t'aime:I love you
+Je suis désolé(e):I'm sorry
+Anniversaire:Birthday
+Famille:Family
+Musique:Music
+Film:Movie
+Photo:Photo
+Pluie:Rain
+Neige:Snow
+Printemps:Spring
+Été:Summer
+Automne:Autumn
+Hiver:Winter
+Matin:Morning
+Soir:Evening
+Nuit:Night
+Avion:Plane
+Train:Train
+Bus:Bus
+Métro:Subway
+Café:Coffee
+Thé:Tea
+Croissant:Croissant
+Fromage:Cheese
+Poulet:Chicken
+Poisson:Fish
+Pomme:Apple
+Orange:Orange
+Banane:Banana
+Fraise:Strawberry
+Tomate:Tomato
+Pomme de terre:Potato
+Salade:Salad
+Pain au chocolat:Chocolate croissant
+Riz:Rice
+Télévision:Television
+Radio:Radio
+Ordinateur:Computer
+Internet:Internet
+Téléphone:Phone
+Appartement:Apartment
+Salle de bains:Bathroom
+Chambre:Bedroom
+Cuisine:Kitchen
+Salon:Living room
+Bureau:Office
+Parc:Park
+Bibliothèque:Library
+Église:Church
+Restaurant:Restaurant
+Marché:Market
+Cinéma:Cinema
+Épicerie:Grocery store
+Centre-ville:Downtown
+Montagne:Mountain
+Rivière:River
+Lac:Lake
+Mer:Sea
+Voyage:Trip
+Vacances:Vacation
+Sport:Sport
+Art:Art
+Ami:Friend
