@@ -49,7 +49,7 @@ Project Lingo is a Language Learning Platform/Mini Applet built using the Java S
 
 The general Idea of the Application Structure is displayed in the following image.
 
-#![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![alt text](https://github.com/Metamortal4/Project-Lingo/blob/main/Blueprint.png?raw=true)
 
 
 The application starts from the LingoApp class which serves as our application scene and control manager. It creates the JFrame window for the application and swaps out the JPanel classes using a CardLayout object. 
